@@ -33,5 +33,14 @@ namespace TicTacToeBoard
                 Console.WriteLine("Invalid Input!");
             }
         }
+        public static void showBoardUC3()
+        {
+            Console.WriteLine("    |    |    ");
+            Console.WriteLine("____|____|____");
+            Console.WriteLine("    |    |    ");
+            Console.WriteLine("____|____|____");
+            Console.WriteLine("    |    |    ");
+            Console.WriteLine("    |    |    ");
+        }
     }
 }

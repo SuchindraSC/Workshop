@@ -8,6 +8,7 @@ namespace TicTacToeBoard
         {
             TicToeGame.tictactoeUC1();
             TicToeGame.tictactoeUC2();
+            TicToeGame.showBoardUC3();
         }
     }
 }
